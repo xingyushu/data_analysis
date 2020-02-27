@@ -1,5 +1,5 @@
 # python-data-science
-
+日常科研都需要处理数据，分析数据
 本project教大家如何使用Python分析和可视化数据，开启Data Science科研之旅。
 
 
