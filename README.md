@@ -1,8 +1,7 @@
 # python-data-science
 
-本课程会教大家如何使用Python分析和可视化数据，开启Data Science职业之旅。
+本project教大家如何使用Python分析和可视化数据，开启Data Science科研之旅。
 
-本课程是Python for Data Science的入门课程，是学习Text Mining，Machine Learning，Deep Learning的基础。
 
 主要包含以下內容：
 
